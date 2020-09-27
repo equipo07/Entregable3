@@ -906,7 +906,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/clue-es-una-app-de-seguimiento-del-ciclo-menstrual-que-predice-las-fechas-de-tu-siguiente-periodo-menstrual-spm-y-tus-das-frtiles-en-los-cuales-la-probabilidad-de-embarazo-es-ms-alta.-hay-conexin-entre-16-1920x1080.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -945,7 +945,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/clue-es-una-app-de-seguimiento-del-ciclo-menstrual-que-predice-las-fechas-de-tu-siguiente-periodo-menstrual-spm-y-tus-das-frtiles-en-los-cuales-la-probabilidad-de-embarazo-es-ms-alta.-hay-conexin-entre-17-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1261,7 +1261,7 @@
                 "overlayColor": "#ffe885"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/sin-tt.png",
+                "image": "@PROJECT_PATH@/assets/images/clue-es-una-app-de-seguimiento-del-ciclo-menstrual-que-predice-las-fechas-de-tu-siguiente-periodo-menstrual-spm-y-tus-das-frtiles-en-los-cuales-la-probabilidad-de-embarazo-es-ms-alta.-hay-conexin-entre-1-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1280,8 +1280,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/np3-1.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/clue-es-una-app-de-seguimiento-del-ciclo-menstrual-que-predice-las-fechas-de-tu-siguiente-periodo-menstrual-spm-y-tus-das-frtiles-en-los-cuales-la-probabilidad-de-embarazo-es-ms-alta.-hay-conexin-entre-19-1920x1080.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1460,7 +1460,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/caso-clnico-2-2000x761.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
