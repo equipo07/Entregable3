@@ -1279,7 +1279,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/diseo-sin-ttulo-17-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1394,7 +1394,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/modificado-5-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
